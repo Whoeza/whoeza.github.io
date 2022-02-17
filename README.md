@@ -1,4 +1,4 @@
-# Yes, I'm on GitHub Pages.
+# Yes, I'm on [GitHub Pages](https://whoeza.github.io).
 *Soon™*
 
-[GitHub repository](https://whoeza.github.io/)
+[GitHub repository](https://github.com/Whoeza/whoeza.github.io)
