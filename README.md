@@ -4,4 +4,4 @@
 1. [Responsive Web Design certificate from freeCodeCamp.org](https://www.freecodecamp.org/certification/Whoeza/responsive-web-design)
 2. JavaScript Algorithms and Data Structures - In progress!
 
-[GitHub repository](https://github.com/Whoeza/whoeza.github.io)
+[GitHub repository for this website](https://github.com/Whoeza/whoeza.github.io)
