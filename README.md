@@ -6,5 +6,7 @@
 3. Front End Development Libraries - in progress!
 
 [GitHub repository for this website](https://github.com/Whoeza/whoeza.github.io)
+
 [GitHub profile](https://github.com/Whoeza/)
+
 [Bugfix requests, contacts, coffee and donatiosn](https://github.com/sponsors/Whoeza)
