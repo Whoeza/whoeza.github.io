@@ -9,4 +9,4 @@
 
 [GitHub profile](https://github.com/Whoeza/)
 
-[Bugfix requests, contacts, coffee and donatiosn](https://github.com/sponsors/Whoeza)
+[Bugfix requests, contacts, coffee and donations](https://github.com/sponsors/Whoeza)
