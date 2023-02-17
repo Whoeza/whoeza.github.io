@@ -1,0 +1,64 @@
+<!-- Create an HTML file with input fields for the bill amount and the percentage tip. -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        The Tip does the Trick!
+    </title>
+    <link rel="stylesheet" href="layout.css">
+    <link rel="stylesheet" href="colors.css">
+    
+    <link rel="stylesheet" href="fonts.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Martel+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playball&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Phudu:wght@300&family=Playball&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <h1>The Tip does the Trick</h1>
+        <h2>Tip generator</h2>
+    </header>
+    
+    <div class="tip-generator-form">
+
+        <div class="tip-bill-amount">
+            <label>
+                <p>
+                    Bill amount
+                </p>
+                <input id="input_bill_amt" type="number">
+            </label>
+        </div>
+        
+        <div class="tip-percentage">
+            <label>
+                <p>
+                    Tip percentage
+                </p>
+                <input id="input_tip_pct" type="number">
+            </label>
+        </div>
+        
+    </div>
+
+    <div class="tip-result">
+        <button onclick=tip_gen()>
+            <label>
+                <p>
+                    Tip
+                </p>
+                <input id="output_tip" disabled="true">
+            </label>
+        </button>
+    </div>
+
+    <footer>
+        Tip generator form
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+</html>
