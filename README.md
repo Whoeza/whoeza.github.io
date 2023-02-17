@@ -12,4 +12,4 @@
 [Bugfix requests, contacts, coffee and donations](https://github.com/sponsors/Whoeza)
 
 Small project experiments:
-- [tip generator](https://github.com/Whoeza/whoeza.github.io/thetipdoesthetrick/index.htm)
+- [tip generator](https://whoeza.github.io/thetipdoesthetrick/index.htm)
