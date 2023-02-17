@@ -1,0 +1,32 @@
+/* Style the HTML file using CSS to make it visually appealing. */
+
+*
+{
+    margin: auto;
+}
+
+html
+{
+    height: 100%;
+}
+
+body
+{
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    
+    text-align: center;
+    
+    overflow-y: visible; /* no scrolling */
+    overflow-x: hidden;
+
+    /* display:flex;
+    flex-direction: column;
+    justify-content: space-around; */
+    display: grid;
+    grid-template-rows: auto auto auto;
+
+}
+
+

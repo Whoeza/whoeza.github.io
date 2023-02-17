@@ -1,0 +1,26 @@
+*
+{
+    /* font-family: 'Martel Sans', sans-serif; */
+    font-family: 'Playball', cursive;
+}
+
+h1
+{
+    font-size: 7rem;
+}
+
+h2
+{
+    font-size: 4rem;
+}
+
+p, input
+{
+    font-size: 3rem;
+}
+
+footer
+{
+    font-family: 'Phudu', cursive;
+
+}
